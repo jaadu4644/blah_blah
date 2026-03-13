@@ -124,7 +124,26 @@ to{ text-shadow:0 0 40px #ff4d4d;}
 <div class="page" id="page2">
 
 <p>
-See aratrika ik I had said soo many wrong things to you cause at that time I was depressed because of all those things which happen to you bec of me and I was really depressed and sad still all those things haunt me and I can't forgot what others said to you and disrespected you in a way which I had never imagine that gonna happen to you bec of me and u have to hear soo many things which are against me and gonna make u feel bad Rn ik I made many many mistakes of saying all those things to you when I was telling you that we should broke up I said all that only bec I was depressed and second ki I don't want that I treat you in that way even I never knew why u loved me or chose me over soo many boys even if you had many different choice and ehan too but still u chose me over all of them I am glad that I was ur bf but that not the point The point is I want you say sorry to you for the things that I said when we are breaking up and all the things which made u think bad abt me Right now idk what's going on ur mind and what will be ur reaction when u gonna read this But all I wanna say is a sorry bec that's all in can If i would be there in kolkata i will kneel down in front of you and say apologize for every single mistake that I had made during our relationship honestly saying I miss our relationship soo much and misses you too But i fear relationships now cause I don't want that the other person gets disrespected Or need to hear soo many bad things Abt himself All i wanted is to treat you the way u want every single moment of your life give u the love u deserve and try to treat u in the much better way as ur family treated you But in all those things I failed. I am sorry for everything aratrika Really sorry
+See aratrika ik I had said soo many wrong things to you cause at that time I was depressed because of all those things which happen to you bec of me and I was really depressed and sad still all those things haunt me and I can't forgot what others said to you and disrespected you in a way which I had never imagine that gonna happen to you bec of me and u have to hear soo many things which are against me and gonna make u feel bad 
+
+Rn ik I made many many mistakes of saying all those things to you when I was telling you that we should broke up I said all that only bec I was depressed and second ki I don't want that I treat you in that way even I never knew why u loved me or chose me over soo many boys even if you had many different choice and ehan too but still u chose me over all of them I am glad that I was ur bf but that not the point
+
+The point is I want you say sorry to you for the things that I said when we are breaking up and all the things which made u think bad abt me
+
+Right now idk what's going on ur mind and what will be ur reaction when u gonna read this 
+
+But all I wanna say is a sorry bec that's all in can 
+
+If i would be there in kolkata i will kneel down in front of you and say apologize for every single mistake that I had made during our relationship honestly saying I miss our relationship soo much and misses you too 
+
+But i fear relationships now cause I don't want that the other person gets disrespected Or need to hear soo many bad things Abt himself
+
+All i wanted is to treat you the way u want every single moment of your life give u the love u deserve and try to treat u in the much better way as ur family treated you 
+
+But in all those things I failed. 
+
+I am sorry for everything aratrika  
+Really sorry
 </p>
 
 <button onclick="nextPage(3)">Continue</button>
